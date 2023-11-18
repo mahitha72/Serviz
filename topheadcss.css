@@ -1,0 +1,22 @@
+.top{
+    overflow: hidden;
+    background-color:black;
+    padding: 3px 3px;
+}
+.top-right{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+}
+.top a{
+    float: left;
+    color:white;
+    text-align: center;
+    padding: 7px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.top a:hover{
+    background-color: aqua;
+}
